@@ -1,9 +1,9 @@
 {
   "name": "instagram-cookie-extractor",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "insta.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node insta.js"
   },
   "dependencies": {
     "puppeteer": "^20.0.0" // Ensure this version or latest
